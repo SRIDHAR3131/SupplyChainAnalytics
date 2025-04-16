@@ -1,0 +1,501 @@
+ItemID,ItemName,Category,StockQuantity,ReorderLevel,Supplier,OrderQuantity,OrderDate,DeliveryDate,Status
+ITEM0001,Last Assembly,Engine Parts,22,144,Magneti Marelli,82,2024-11-17,2025-04-01,Shipped
+ITEM0002,As Assembly,Chassis Components,387,63,Continental,42,2024-11-19,2025-03-23,Delayed
+ITEM0003,Wall Assembly,Engine Parts,25,61,Denso,79,2024-12-15,2025-03-18,Ordered
+ITEM0004,Increase Assembly,Body Panels,111,141,Continental,127,2025-02-22,2025-04-02,Shipped
+ITEM0005,Action Assembly,Interior Trim,311,85,Bosch,60,2024-11-21,2025-03-28,Delayed
+ITEM0006,Identify Assembly,Electricals,152,69,Denso,106,2025-02-14,2025-03-13,Ordered
+ITEM0007,Herself Assembly,Engine Parts,204,62,Magneti Marelli,108,2025-01-31,2025-03-09,Delivered
+ITEM0008,How Assembly,Engine Parts,383,108,Continental,51,2025-03-05,2025-04-08,Delayed
+ITEM0009,Painting Assembly,Engine Parts,292,87,Continental,112,2024-11-28,2025-04-02,Shipped
+ITEM0010,Tv Assembly,Engine Parts,33,134,Denso,94,2024-10-09,2025-03-30,Ordered
+ITEM0011,Open Assembly,Chassis Components,453,62,Valeo,91,2024-10-12,2025-03-25,Delayed
+ITEM0012,Know Assembly,Electricals,93,97,Magneti Marelli,73,2024-12-07,2025-04-06,Delivered
+ITEM0013,Everything Assembly,Engine Parts,321,131,Denso,156,2024-12-11,2025-04-02,Shipped
+ITEM0014,Would Assembly,Chassis Components,246,98,Magneti Marelli,183,2024-12-07,2025-04-07,Shipped
+ITEM0015,Really Assembly,Electricals,441,148,Bosch,78,2024-11-12,2025-03-26,Ordered
+ITEM0016,Sense Assembly,Electricals,215,84,Bosch,74,2024-10-10,2025-04-04,Delivered
+ITEM0017,Well Assembly,Chassis Components,345,113,Valeo,184,2024-10-23,2025-03-14,Delayed
+ITEM0018,Player Assembly,Chassis Components,145,67,Denso,163,2025-03-04,2025-03-26,Delivered
+ITEM0019,Model Assembly,Body Panels,229,124,Valeo,112,2024-10-20,2025-04-05,Shipped
+ITEM0020,Strong Assembly,Chassis Components,270,113,Bosch,32,2025-02-22,2025-03-19,Ordered
+ITEM0021,Myself Assembly,Chassis Components,331,70,Valeo,172,2025-01-19,2025-03-25,Ordered
+ITEM0022,Artist Assembly,Interior Trim,205,126,Valeo,155,2024-11-25,2025-03-23,Delivered
+ITEM0023,Name Assembly,Body Panels,450,51,Bosch,194,2024-11-17,2025-03-28,Delivered
+ITEM0024,Blue Assembly,Electricals,67,87,Valeo,60,2025-02-16,2025-03-20,Delayed
+ITEM0025,Rise Assembly,Engine Parts,498,142,Magneti Marelli,148,2025-01-02,2025-03-17,Shipped
+ITEM0026,Life Assembly,Body Panels,477,63,Magneti Marelli,183,2025-01-24,2025-03-13,Shipped
+ITEM0027,Exactly Assembly,Chassis Components,201,147,Denso,158,2025-02-19,2025-03-27,Ordered
+ITEM0028,Hand Assembly,Body Panels,175,112,Bosch,48,2024-11-08,2025-03-14,Delivered
+ITEM0029,Purpose Assembly,Electricals,132,57,Denso,165,2025-01-24,2025-03-09,Ordered
+ITEM0030,Son Assembly,Engine Parts,384,112,Bosch,156,2025-02-25,2025-03-11,Shipped
+ITEM0031,Trouble Assembly,Chassis Components,347,110,Continental,62,2024-12-28,2025-04-02,Delivered
+ITEM0032,Thing Assembly,Body Panels,456,127,Valeo,74,2024-10-23,2025-03-22,Shipped
+ITEM0033,Scene Assembly,Electricals,214,135,Magneti Marelli,132,2025-01-24,2025-04-03,Delayed
+ITEM0034,Citizen Assembly,Engine Parts,136,78,Bosch,106,2025-01-11,2025-03-19,Ordered
+ITEM0035,Ever Assembly,Body Panels,293,79,Continental,76,2024-10-10,2025-04-04,Ordered
+ITEM0036,Seven Assembly,Engine Parts,372,130,Bosch,78,2024-12-11,2025-03-31,Ordered
+ITEM0037,Challenge Assembly,Engine Parts,450,92,Bosch,151,2024-10-28,2025-03-22,Shipped
+ITEM0038,Issue Assembly,Electricals,352,112,Denso,158,2024-10-11,2025-04-06,Shipped
+ITEM0039,Technology Assembly,Body Panels,305,110,Denso,141,2024-12-12,2025-03-15,Delayed
+ITEM0040,History Assembly,Chassis Components,58,62,Valeo,110,2025-01-21,2025-03-11,Delayed
+ITEM0041,Little Assembly,Interior Trim,249,143,Bosch,192,2024-10-10,2025-03-24,Ordered
+ITEM0042,Support Assembly,Engine Parts,216,143,Magneti Marelli,47,2024-10-10,2025-03-25,Shipped
+ITEM0043,Any Assembly,Chassis Components,107,118,Valeo,55,2025-01-26,2025-03-27,Delayed
+ITEM0044,Reduce Assembly,Chassis Components,152,109,Denso,39,2025-02-21,2025-03-26,Delayed
+ITEM0045,Style Assembly,Body Panels,60,56,Continental,23,2025-02-25,2025-03-17,Ordered
+ITEM0046,Race Assembly,Chassis Components,95,102,Valeo,143,2025-01-01,2025-03-26,Shipped
+ITEM0047,Nearly Assembly,Interior Trim,472,57,Denso,117,2025-02-28,2025-03-14,Ordered
+ITEM0048,Rich Assembly,Interior Trim,145,150,Valeo,93,2025-01-05,2025-03-09,Delayed
+ITEM0049,Move Assembly,Body Panels,348,141,Valeo,59,2024-12-31,2025-03-20,Shipped
+ITEM0050,Weight Assembly,Electricals,121,57,Continental,158,2024-11-17,2025-03-14,Ordered
+ITEM0051,Condition Assembly,Electricals,39,56,Continental,142,2024-12-01,2025-04-02,Shipped
+ITEM0052,Card Assembly,Engine Parts,270,60,Denso,37,2024-12-22,2025-04-08,Ordered
+ITEM0053,Area Assembly,Chassis Components,216,65,Continental,83,2025-02-24,2025-03-19,Ordered
+ITEM0054,Development Assembly,Body Panels,51,103,Continental,164,2024-11-06,2025-03-29,Delivered
+ITEM0055,Hot Assembly,Electricals,114,135,Magneti Marelli,81,2024-10-18,2025-04-07,Delivered
+ITEM0056,Various Assembly,Interior Trim,77,135,Magneti Marelli,137,2025-03-06,2025-03-11,Delivered
+ITEM0057,Show Assembly,Engine Parts,14,108,Continental,164,2024-10-22,2025-03-24,Ordered
+ITEM0058,Knowledge Assembly,Engine Parts,285,77,Continental,87,2024-10-20,2025-03-10,Shipped
+ITEM0059,Deal Assembly,Electricals,461,58,Denso,114,2024-10-18,2025-03-14,Delivered
+ITEM0060,During Assembly,Chassis Components,234,119,Magneti Marelli,176,2024-10-10,2025-03-13,Ordered
+ITEM0061,Attention Assembly,Body Panels,163,134,Bosch,54,2024-12-31,2025-03-16,Delivered
+ITEM0062,Take Assembly,Engine Parts,465,63,Continental,59,2025-02-07,2025-04-01,Delivered
+ITEM0063,Certainly Assembly,Electricals,319,76,Magneti Marelli,72,2025-02-12,2025-03-17,Delivered
+ITEM0064,Change Assembly,Body Panels,260,82,Bosch,43,2024-10-25,2025-03-15,Delayed
+ITEM0065,Every Assembly,Electricals,32,50,Magneti Marelli,53,2025-01-12,2025-03-12,Delivered
+ITEM0066,As Assembly,Chassis Components,389,106,Continental,200,2024-11-12,2025-04-04,Delayed
+ITEM0067,Summer Assembly,Body Panels,14,64,Bosch,196,2024-10-31,2025-04-02,Shipped
+ITEM0068,College Assembly,Body Panels,28,97,Continental,161,2025-02-28,2025-04-02,Shipped
+ITEM0069,Rest Assembly,Interior Trim,75,55,Magneti Marelli,113,2024-12-20,2025-04-06,Ordered
+ITEM0070,Statement Assembly,Electricals,117,137,Denso,190,2025-01-21,2025-04-03,Ordered
+ITEM0071,Win Assembly,Electricals,409,121,Valeo,178,2024-10-14,2025-04-07,Shipped
+ITEM0072,Wonder Assembly,Chassis Components,452,70,Denso,125,2024-10-20,2025-03-10,Ordered
+ITEM0073,Identify Assembly,Chassis Components,387,92,Valeo,191,2025-01-15,2025-04-01,Shipped
+ITEM0074,Plan Assembly,Electricals,91,150,Bosch,117,2025-01-23,2025-03-24,Ordered
+ITEM0075,Sport Assembly,Interior Trim,123,75,Valeo,109,2024-12-24,2025-03-12,Delivered
+ITEM0076,Western Assembly,Chassis Components,124,53,Denso,122,2025-03-07,2025-03-30,Delivered
+ITEM0077,Fight Assembly,Electricals,452,58,Magneti Marelli,109,2024-12-04,2025-03-15,Delayed
+ITEM0078,Rule Assembly,Body Panels,179,53,Bosch,86,2024-12-11,2025-03-10,Shipped
+ITEM0079,Past Assembly,Body Panels,145,54,Bosch,172,2024-11-16,2025-03-23,Delayed
+ITEM0080,Believe Assembly,Electricals,383,150,Magneti Marelli,131,2024-11-07,2025-03-28,Ordered
+ITEM0081,Kid Assembly,Interior Trim,470,123,Denso,85,2024-12-23,2025-03-13,Ordered
+ITEM0082,Treatment Assembly,Interior Trim,10,116,Continental,195,2025-01-20,2025-03-29,Shipped
+ITEM0083,Maybe Assembly,Electricals,230,58,Magneti Marelli,179,2024-10-27,2025-03-28,Delivered
+ITEM0084,Stop Assembly,Engine Parts,378,88,Continental,99,2025-02-11,2025-03-20,Delayed
+ITEM0085,Stay Assembly,Electricals,216,139,Magneti Marelli,161,2025-02-23,2025-03-28,Shipped
+ITEM0086,Become Assembly,Chassis Components,225,135,Valeo,193,2025-01-06,2025-03-14,Shipped
+ITEM0087,Compare Assembly,Body Panels,301,88,Valeo,160,2025-02-16,2025-03-25,Ordered
+ITEM0088,Real Assembly,Electricals,156,76,Valeo,168,2024-12-29,2025-03-22,Delivered
+ITEM0089,Movement Assembly,Interior Trim,236,106,Denso,150,2025-02-01,2025-03-15,Delayed
+ITEM0090,Will Assembly,Chassis Components,347,60,Magneti Marelli,151,2024-11-26,2025-04-07,Delivered
+ITEM0091,Half Assembly,Engine Parts,429,146,Denso,192,2024-10-11,2025-03-15,Delivered
+ITEM0092,Various Assembly,Chassis Components,422,75,Denso,26,2025-02-03,2025-03-20,Ordered
+ITEM0093,Must Assembly,Chassis Components,253,128,Bosch,136,2024-10-14,2025-04-06,Delayed
+ITEM0094,Impact Assembly,Body Panels,109,141,Valeo,146,2024-12-01,2025-03-19,Delayed
+ITEM0095,Single Assembly,Chassis Components,85,133,Bosch,47,2025-01-24,2025-03-14,Delayed
+ITEM0096,Myself Assembly,Chassis Components,100,139,Continental,138,2025-01-28,2025-03-24,Ordered
+ITEM0097,Name Assembly,Body Panels,137,65,Valeo,54,2024-12-31,2025-04-02,Delayed
+ITEM0098,Difficult Assembly,Body Panels,296,126,Magneti Marelli,133,2025-01-13,2025-03-20,Delayed
+ITEM0099,Name Assembly,Body Panels,238,70,Valeo,135,2024-12-13,2025-03-28,Delivered
+ITEM0100,Popular Assembly,Chassis Components,440,131,Magneti Marelli,153,2024-12-14,2025-04-03,Delayed
+ITEM0101,Future Assembly,Chassis Components,150,106,Bosch,93,2025-01-06,2025-03-18,Shipped
+ITEM0102,Anyone Assembly,Electricals,181,90,Continental,40,2024-11-09,2025-03-09,Shipped
+ITEM0103,Animal Assembly,Chassis Components,128,99,Denso,200,2025-02-22,2025-03-16,Shipped
+ITEM0104,Doctor Assembly,Engine Parts,222,102,Magneti Marelli,158,2025-01-21,2025-04-01,Delayed
+ITEM0105,Whatever Assembly,Interior Trim,41,76,Valeo,119,2024-12-31,2025-03-19,Ordered
+ITEM0106,Expect Assembly,Body Panels,204,111,Bosch,110,2025-01-26,2025-04-07,Delivered
+ITEM0107,True Assembly,Interior Trim,446,103,Continental,159,2024-11-24,2025-03-10,Shipped
+ITEM0108,Air Assembly,Interior Trim,122,84,Valeo,144,2024-12-03,2025-03-28,Ordered
+ITEM0109,Pattern Assembly,Interior Trim,182,135,Valeo,62,2025-01-25,2025-03-23,Delayed
+ITEM0110,Deal Assembly,Chassis Components,328,118,Bosch,120,2024-12-05,2025-04-07,Ordered
+ITEM0111,History Assembly,Engine Parts,339,104,Denso,138,2025-02-11,2025-03-20,Shipped
+ITEM0112,Your Assembly,Engine Parts,143,98,Magneti Marelli,74,2025-01-20,2025-04-03,Delayed
+ITEM0113,Around Assembly,Electricals,182,147,Valeo,91,2025-01-22,2025-03-14,Delayed
+ITEM0114,Mention Assembly,Electricals,437,60,Valeo,24,2024-12-28,2025-03-14,Ordered
+ITEM0115,Manage Assembly,Electricals,124,133,Bosch,186,2025-01-16,2025-04-04,Ordered
+ITEM0116,Country Assembly,Engine Parts,496,81,Denso,25,2024-11-03,2025-03-09,Shipped
+ITEM0117,One Assembly,Chassis Components,74,110,Bosch,164,2025-01-11,2025-03-20,Shipped
+ITEM0118,Sort Assembly,Interior Trim,368,82,Magneti Marelli,62,2024-10-18,2025-03-10,Ordered
+ITEM0119,Imagine Assembly,Chassis Components,169,63,Continental,26,2025-01-25,2025-03-10,Delivered
+ITEM0120,Stage Assembly,Body Panels,356,98,Valeo,70,2025-01-03,2025-04-05,Ordered
+ITEM0121,Treat Assembly,Body Panels,363,130,Denso,46,2024-10-28,2025-03-29,Delivered
+ITEM0122,Degree Assembly,Body Panels,422,65,Continental,30,2025-01-27,2025-03-18,Delivered
+ITEM0123,Every Assembly,Body Panels,229,134,Magneti Marelli,37,2025-02-03,2025-04-02,Delivered
+ITEM0124,Rich Assembly,Engine Parts,444,103,Valeo,47,2024-12-11,2025-03-28,Delayed
+ITEM0125,Help Assembly,Electricals,335,108,Denso,131,2024-12-15,2025-04-07,Shipped
+ITEM0126,Politics Assembly,Body Panels,343,84,Continental,157,2025-02-11,2025-04-02,Delayed
+ITEM0127,Hospital Assembly,Interior Trim,233,143,Continental,88,2025-02-04,2025-04-03,Delivered
+ITEM0128,Very Assembly,Chassis Components,435,61,Magneti Marelli,135,2024-11-15,2025-03-30,Shipped
+ITEM0129,Set Assembly,Interior Trim,301,128,Valeo,106,2025-03-02,2025-03-21,Ordered
+ITEM0130,Relationship Assembly,Interior Trim,445,91,Denso,144,2024-10-09,2025-03-25,Shipped
+ITEM0131,Including Assembly,Electricals,418,83,Magneti Marelli,91,2025-02-17,2025-03-16,Delivered
+ITEM0132,Challenge Assembly,Body Panels,15,116,Denso,41,2024-11-01,2025-03-17,Shipped
+ITEM0133,Difference Assembly,Interior Trim,260,121,Denso,196,2025-01-17,2025-04-06,Delayed
+ITEM0134,Stock Assembly,Interior Trim,239,52,Bosch,95,2024-10-17,2025-04-04,Shipped
+ITEM0135,Soldier Assembly,Interior Trim,364,81,Magneti Marelli,189,2025-01-30,2025-03-31,Delivered
+ITEM0136,Weight Assembly,Interior Trim,293,117,Magneti Marelli,128,2024-10-10,2025-04-06,Delivered
+ITEM0137,Consider Assembly,Electricals,369,108,Magneti Marelli,98,2025-01-04,2025-03-16,Delivered
+ITEM0138,Agency Assembly,Chassis Components,71,142,Denso,100,2024-10-14,2025-03-16,Ordered
+ITEM0139,Road Assembly,Body Panels,496,147,Denso,69,2024-11-04,2025-03-22,Shipped
+ITEM0140,Spring Assembly,Interior Trim,151,142,Continental,154,2024-12-27,2025-03-28,Delivered
+ITEM0141,Old Assembly,Engine Parts,436,74,Magneti Marelli,78,2024-11-30,2025-04-06,Delivered
+ITEM0142,To Assembly,Chassis Components,164,51,Continental,52,2024-10-28,2025-03-21,Delivered
+ITEM0143,Increase Assembly,Engine Parts,37,120,Magneti Marelli,198,2024-12-30,2025-03-20,Shipped
+ITEM0144,Generation Assembly,Interior Trim,62,51,Continental,92,2025-01-28,2025-04-04,Delayed
+ITEM0145,Cost Assembly,Interior Trim,235,93,Denso,33,2024-11-17,2025-04-06,Delivered
+ITEM0146,Two Assembly,Interior Trim,68,58,Valeo,145,2025-02-19,2025-03-15,Ordered
+ITEM0147,Yard Assembly,Body Panels,332,137,Bosch,58,2024-10-23,2025-03-27,Shipped
+ITEM0148,Truth Assembly,Body Panels,495,88,Bosch,83,2025-02-11,2025-03-14,Ordered
+ITEM0149,Player Assembly,Body Panels,401,103,Continental,172,2024-10-19,2025-03-23,Shipped
+ITEM0150,Back Assembly,Body Panels,204,107,Valeo,96,2024-12-17,2025-03-11,Delayed
+ITEM0151,Subject Assembly,Electricals,301,129,Bosch,176,2024-12-27,2025-04-01,Ordered
+ITEM0152,Fall Assembly,Chassis Components,330,77,Magneti Marelli,189,2025-02-10,2025-04-04,Ordered
+ITEM0153,Certain Assembly,Chassis Components,132,72,Continental,39,2025-01-28,2025-03-31,Shipped
+ITEM0154,Particular Assembly,Engine Parts,219,107,Continental,140,2024-12-26,2025-03-21,Delivered
+ITEM0155,Morning Assembly,Engine Parts,128,86,Magneti Marelli,199,2024-12-10,2025-03-09,Delayed
+ITEM0156,Suffer Assembly,Engine Parts,361,79,Magneti Marelli,180,2025-02-25,2025-04-06,Shipped
+ITEM0157,Off Assembly,Interior Trim,68,119,Denso,185,2024-10-13,2025-03-24,Shipped
+ITEM0158,Push Assembly,Electricals,433,68,Bosch,35,2025-02-08,2025-03-17,Shipped
+ITEM0159,In Assembly,Electricals,314,145,Continental,93,2024-10-22,2025-04-05,Delayed
+ITEM0160,Focus Assembly,Engine Parts,249,138,Magneti Marelli,199,2024-12-08,2025-03-14,Delayed
+ITEM0161,Above Assembly,Electricals,266,119,Valeo,132,2024-10-25,2025-04-03,Ordered
+ITEM0162,Produce Assembly,Body Panels,30,105,Magneti Marelli,174,2024-11-04,2025-03-10,Delivered
+ITEM0163,Arm Assembly,Engine Parts,56,79,Continental,170,2025-01-18,2025-03-19,Ordered
+ITEM0164,Wish Assembly,Electricals,305,55,Denso,140,2024-11-01,2025-03-28,Delayed
+ITEM0165,Poor Assembly,Electricals,102,124,Valeo,182,2025-01-07,2025-03-26,Delayed
+ITEM0166,However Assembly,Engine Parts,250,94,Valeo,105,2024-12-21,2025-04-08,Delivered
+ITEM0167,Inside Assembly,Engine Parts,449,70,Magneti Marelli,125,2025-01-16,2025-04-06,Delayed
+ITEM0168,Cup Assembly,Electricals,349,101,Continental,29,2025-01-28,2025-03-22,Delayed
+ITEM0169,Maintain Assembly,Engine Parts,171,82,Magneti Marelli,49,2025-01-05,2025-03-19,Delayed
+ITEM0170,Meeting Assembly,Body Panels,432,50,Continental,138,2024-10-13,2025-03-19,Delayed
+ITEM0171,Institution Assembly,Engine Parts,106,116,Magneti Marelli,179,2025-02-04,2025-03-30,Delayed
+ITEM0172,Moment Assembly,Interior Trim,399,56,Denso,88,2024-10-28,2025-03-27,Shipped
+ITEM0173,Test Assembly,Electricals,234,139,Valeo,51,2024-10-12,2025-03-28,Ordered
+ITEM0174,Military Assembly,Body Panels,419,80,Denso,99,2024-12-25,2025-03-27,Ordered
+ITEM0175,Since Assembly,Body Panels,218,61,Denso,49,2024-11-22,2025-03-11,Delayed
+ITEM0176,Better Assembly,Engine Parts,341,69,Valeo,94,2024-11-03,2025-03-12,Delivered
+ITEM0177,Democrat Assembly,Interior Trim,437,111,Valeo,82,2024-12-25,2025-03-26,Delayed
+ITEM0178,Knowledge Assembly,Body Panels,84,99,Denso,173,2024-10-26,2025-03-12,Shipped
+ITEM0179,Sit Assembly,Engine Parts,151,148,Valeo,107,2025-03-04,2025-03-18,Delivered
+ITEM0180,Agreement Assembly,Engine Parts,154,142,Magneti Marelli,170,2024-10-26,2025-04-01,Delayed
+ITEM0181,So Assembly,Chassis Components,238,118,Valeo,108,2024-12-10,2025-03-20,Delivered
+ITEM0182,Onto Assembly,Body Panels,400,119,Valeo,136,2024-11-25,2025-04-08,Delivered
+ITEM0183,Away Assembly,Chassis Components,367,80,Continental,118,2024-12-30,2025-03-22,Shipped
+ITEM0184,Knowledge Assembly,Interior Trim,32,90,Valeo,200,2024-11-26,2025-03-15,Delayed
+ITEM0185,Success Assembly,Interior Trim,349,133,Denso,146,2025-01-26,2025-03-24,Ordered
+ITEM0186,Well Assembly,Chassis Components,267,125,Magneti Marelli,45,2024-11-05,2025-03-27,Delayed
+ITEM0187,Dark Assembly,Engine Parts,279,108,Bosch,56,2025-01-09,2025-03-31,Delayed
+ITEM0188,Project Assembly,Chassis Components,48,110,Magneti Marelli,106,2025-02-06,2025-03-20,Delayed
+ITEM0189,Watch Assembly,Engine Parts,446,92,Continental,117,2024-10-12,2025-03-27,Delivered
+ITEM0190,Him Assembly,Interior Trim,456,119,Bosch,178,2025-02-22,2025-03-23,Ordered
+ITEM0191,Easy Assembly,Chassis Components,333,137,Magneti Marelli,78,2025-02-18,2025-04-02,Ordered
+ITEM0192,Television Assembly,Interior Trim,60,147,Bosch,133,2024-10-23,2025-03-28,Shipped
+ITEM0193,Dark Assembly,Electricals,472,53,Bosch,103,2025-03-06,2025-04-06,Ordered
+ITEM0194,Stuff Assembly,Electricals,193,97,Valeo,57,2024-12-28,2025-03-12,Shipped
+ITEM0195,Agent Assembly,Body Panels,220,122,Denso,63,2024-10-20,2025-03-12,Shipped
+ITEM0196,Sign Assembly,Engine Parts,322,98,Continental,194,2025-02-17,2025-04-05,Shipped
+ITEM0197,Whole Assembly,Interior Trim,477,124,Denso,79,2024-12-04,2025-03-20,Delayed
+ITEM0198,Fire Assembly,Electricals,245,82,Bosch,139,2025-01-03,2025-03-14,Delivered
+ITEM0199,Kid Assembly,Body Panels,90,59,Valeo,108,2024-12-09,2025-03-30,Delivered
+ITEM0200,Democratic Assembly,Interior Trim,363,82,Valeo,97,2024-12-14,2025-03-26,Shipped
+ITEM0201,Boy Assembly,Interior Trim,446,111,Bosch,80,2025-02-20,2025-04-07,Delayed
+ITEM0202,There Assembly,Body Panels,193,123,Magneti Marelli,199,2025-01-12,2025-04-01,Delivered
+ITEM0203,Create Assembly,Engine Parts,434,134,Valeo,90,2025-01-03,2025-03-09,Ordered
+ITEM0204,Never Assembly,Body Panels,452,137,Bosch,175,2025-01-25,2025-03-25,Delayed
+ITEM0205,Fill Assembly,Electricals,407,79,Continental,110,2025-03-04,2025-03-10,Shipped
+ITEM0206,Three Assembly,Chassis Components,327,82,Denso,180,2025-01-02,2025-03-14,Ordered
+ITEM0207,Hear Assembly,Engine Parts,168,150,Valeo,28,2024-12-11,2025-04-05,Delivered
+ITEM0208,Art Assembly,Chassis Components,56,87,Magneti Marelli,126,2025-02-13,2025-03-09,Shipped
+ITEM0209,Moment Assembly,Chassis Components,77,150,Continental,113,2025-02-10,2025-04-02,Delivered
+ITEM0210,Message Assembly,Chassis Components,141,111,Magneti Marelli,106,2025-01-26,2025-03-19,Ordered
+ITEM0211,Sport Assembly,Interior Trim,48,68,Denso,193,2025-02-10,2025-03-23,Delayed
+ITEM0212,Operation Assembly,Body Panels,197,61,Valeo,23,2024-11-29,2025-03-16,Delivered
+ITEM0213,Work Assembly,Body Panels,73,108,Magneti Marelli,192,2024-10-26,2025-04-01,Delivered
+ITEM0214,Explain Assembly,Body Panels,205,131,Magneti Marelli,47,2025-02-05,2025-03-24,Shipped
+ITEM0215,Meet Assembly,Interior Trim,22,129,Continental,103,2025-02-13,2025-03-21,Shipped
+ITEM0216,Argue Assembly,Engine Parts,335,109,Magneti Marelli,186,2025-01-05,2025-03-09,Delayed
+ITEM0217,Take Assembly,Engine Parts,81,55,Bosch,97,2025-01-30,2025-03-30,Delayed
+ITEM0218,Close Assembly,Engine Parts,59,80,Continental,54,2025-02-23,2025-03-29,Delayed
+ITEM0219,Front Assembly,Interior Trim,199,135,Continental,127,2025-01-18,2025-03-24,Shipped
+ITEM0220,Morning Assembly,Interior Trim,345,62,Valeo,177,2024-12-04,2025-03-27,Delayed
+ITEM0221,Stop Assembly,Electricals,26,138,Magneti Marelli,75,2024-11-17,2025-03-31,Delayed
+ITEM0222,As Assembly,Interior Trim,496,80,Magneti Marelli,45,2024-12-07,2025-03-15,Delivered
+ITEM0223,Nearly Assembly,Body Panels,471,132,Magneti Marelli,35,2024-12-09,2025-03-24,Delayed
+ITEM0224,Team Assembly,Electricals,107,65,Valeo,43,2024-12-29,2025-03-13,Shipped
+ITEM0225,Movement Assembly,Body Panels,20,56,Magneti Marelli,82,2024-11-12,2025-03-30,Shipped
+ITEM0226,Accept Assembly,Body Panels,115,58,Continental,73,2025-01-18,2025-03-26,Shipped
+ITEM0227,Cover Assembly,Chassis Components,178,149,Denso,172,2025-01-15,2025-03-25,Ordered
+ITEM0228,Rock Assembly,Electricals,449,68,Denso,158,2025-02-08,2025-03-10,Delivered
+ITEM0229,Quality Assembly,Chassis Components,66,134,Bosch,53,2024-11-16,2025-03-27,Ordered
+ITEM0230,White Assembly,Electricals,414,150,Denso,170,2025-03-08,2025-03-27,Delivered
+ITEM0231,Sport Assembly,Engine Parts,99,83,Bosch,52,2025-02-21,2025-03-28,Delayed
+ITEM0232,Manage Assembly,Body Panels,68,145,Bosch,141,2024-12-15,2025-04-01,Delayed
+ITEM0233,Situation Assembly,Electricals,272,125,Bosch,135,2025-02-03,2025-03-24,Shipped
+ITEM0234,So Assembly,Body Panels,32,143,Continental,97,2024-10-30,2025-04-06,Delayed
+ITEM0235,Painting Assembly,Engine Parts,41,111,Valeo,129,2025-02-25,2025-04-06,Ordered
+ITEM0236,Western Assembly,Interior Trim,374,106,Bosch,40,2025-01-15,2025-03-28,Delivered
+ITEM0237,Care Assembly,Body Panels,85,58,Denso,90,2025-01-09,2025-03-09,Delivered
+ITEM0238,Visit Assembly,Interior Trim,315,117,Magneti Marelli,136,2025-02-24,2025-03-22,Delayed
+ITEM0239,Including Assembly,Engine Parts,416,139,Bosch,187,2025-02-11,2025-03-15,Shipped
+ITEM0240,Management Assembly,Interior Trim,241,79,Valeo,106,2024-12-30,2025-03-28,Delayed
+ITEM0241,Summer Assembly,Interior Trim,222,143,Bosch,100,2024-12-12,2025-03-18,Delayed
+ITEM0242,Tell Assembly,Electricals,350,82,Magneti Marelli,59,2025-01-14,2025-03-18,Delayed
+ITEM0243,Across Assembly,Engine Parts,56,60,Bosch,130,2025-03-04,2025-04-03,Ordered
+ITEM0244,Per Assembly,Electricals,425,66,Continental,35,2024-11-25,2025-03-28,Delivered
+ITEM0245,Option Assembly,Engine Parts,220,95,Valeo,33,2025-01-13,2025-04-05,Delivered
+ITEM0246,Throw Assembly,Body Panels,169,95,Bosch,167,2024-10-16,2025-03-28,Shipped
+ITEM0247,Public Assembly,Chassis Components,346,111,Denso,47,2024-11-11,2025-04-02,Delivered
+ITEM0248,Develop Assembly,Body Panels,198,64,Magneti Marelli,166,2024-12-20,2025-03-19,Shipped
+ITEM0249,Site Assembly,Interior Trim,442,121,Continental,177,2024-11-03,2025-03-30,Ordered
+ITEM0250,Coach Assembly,Body Panels,485,134,Magneti Marelli,27,2025-01-31,2025-03-10,Shipped
+ITEM0251,Usually Assembly,Electricals,369,147,Magneti Marelli,106,2025-03-04,2025-04-07,Delivered
+ITEM0252,Key Assembly,Engine Parts,102,68,Continental,188,2025-02-02,2025-03-15,Delayed
+ITEM0253,Well Assembly,Engine Parts,82,144,Bosch,43,2024-11-25,2025-03-22,Shipped
+ITEM0254,Wrong Assembly,Interior Trim,224,108,Magneti Marelli,60,2025-02-05,2025-03-24,Delivered
+ITEM0255,Choose Assembly,Electricals,379,91,Continental,172,2025-01-29,2025-03-11,Ordered
+ITEM0256,Mrs Assembly,Engine Parts,89,70,Continental,32,2024-10-15,2025-03-27,Ordered
+ITEM0257,After Assembly,Electricals,236,134,Valeo,144,2024-12-30,2025-03-30,Delayed
+ITEM0258,Ready Assembly,Interior Trim,149,77,Continental,49,2025-02-15,2025-04-08,Delivered
+ITEM0259,Practice Assembly,Interior Trim,66,86,Continental,144,2025-01-04,2025-04-08,Delivered
+ITEM0260,Feeling Assembly,Engine Parts,122,100,Continental,34,2024-12-27,2025-04-07,Ordered
+ITEM0261,Cause Assembly,Chassis Components,164,77,Denso,85,2024-11-30,2025-04-01,Delivered
+ITEM0262,Create Assembly,Electricals,71,50,Valeo,130,2024-11-27,2025-03-22,Shipped
+ITEM0263,Group Assembly,Chassis Components,204,118,Denso,148,2024-12-12,2025-03-13,Delivered
+ITEM0264,Huge Assembly,Engine Parts,213,144,Bosch,131,2025-02-28,2025-03-12,Ordered
+ITEM0265,Detail Assembly,Interior Trim,481,59,Magneti Marelli,167,2024-12-31,2025-03-20,Delayed
+ITEM0266,Less Assembly,Body Panels,217,140,Valeo,94,2025-01-13,2025-03-27,Ordered
+ITEM0267,Only Assembly,Interior Trim,20,91,Denso,178,2024-12-12,2025-04-08,Delayed
+ITEM0268,Player Assembly,Electricals,55,105,Bosch,82,2024-11-12,2025-03-13,Delayed
+ITEM0269,Three Assembly,Body Panels,215,117,Bosch,121,2025-01-30,2025-03-31,Delivered
+ITEM0270,Model Assembly,Electricals,123,92,Denso,39,2025-03-07,2025-03-18,Ordered
+ITEM0271,Future Assembly,Body Panels,271,74,Magneti Marelli,109,2024-11-19,2025-03-28,Shipped
+ITEM0272,Out Assembly,Chassis Components,62,68,Magneti Marelli,70,2024-12-01,2025-03-10,Shipped
+ITEM0273,Morning Assembly,Body Panels,88,147,Bosch,65,2024-12-01,2025-04-03,Delayed
+ITEM0274,Close Assembly,Interior Trim,396,122,Continental,134,2024-12-02,2025-03-31,Delivered
+ITEM0275,Entire Assembly,Electricals,87,106,Bosch,140,2024-12-28,2025-04-03,Delayed
+ITEM0276,Well Assembly,Electricals,417,85,Continental,34,2024-11-04,2025-04-04,Delivered
+ITEM0277,Or Assembly,Body Panels,47,89,Valeo,135,2024-12-04,2025-04-05,Ordered
+ITEM0278,Other Assembly,Engine Parts,198,86,Bosch,185,2025-02-28,2025-03-13,Ordered
+ITEM0279,Particular Assembly,Body Panels,314,114,Valeo,138,2025-02-23,2025-03-25,Ordered
+ITEM0280,Eat Assembly,Interior Trim,475,123,Denso,102,2024-10-15,2025-04-04,Delayed
+ITEM0281,Phone Assembly,Body Panels,87,57,Valeo,46,2025-01-14,2025-03-13,Delivered
+ITEM0282,Wall Assembly,Engine Parts,268,132,Denso,30,2024-11-28,2025-03-13,Shipped
+ITEM0283,Themselves Assembly,Interior Trim,234,117,Continental,176,2025-01-14,2025-03-13,Shipped
+ITEM0284,Within Assembly,Electricals,200,86,Valeo,124,2025-02-21,2025-03-20,Delivered
+ITEM0285,Safe Assembly,Body Panels,36,130,Magneti Marelli,36,2024-11-08,2025-03-20,Delivered
+ITEM0286,Star Assembly,Engine Parts,295,136,Valeo,92,2024-11-16,2025-03-27,Delivered
+ITEM0287,Television Assembly,Body Panels,457,69,Magneti Marelli,40,2025-01-18,2025-03-28,Shipped
+ITEM0288,Gun Assembly,Electricals,168,133,Valeo,53,2025-01-07,2025-03-16,Ordered
+ITEM0289,Fast Assembly,Electricals,296,98,Magneti Marelli,52,2025-02-04,2025-04-07,Ordered
+ITEM0290,Consider Assembly,Interior Trim,270,96,Bosch,112,2024-10-10,2025-04-08,Delivered
+ITEM0291,Card Assembly,Chassis Components,496,77,Magneti Marelli,144,2024-10-23,2025-04-08,Shipped
+ITEM0292,Herself Assembly,Chassis Components,80,69,Bosch,95,2025-01-25,2025-04-02,Ordered
+ITEM0293,Mention Assembly,Body Panels,404,119,Continental,29,2024-11-13,2025-04-01,Delivered
+ITEM0294,Relate Assembly,Body Panels,77,126,Valeo,59,2025-01-21,2025-03-15,Shipped
+ITEM0295,For Assembly,Chassis Components,435,138,Continental,62,2024-12-14,2025-04-07,Delayed
+ITEM0296,Much Assembly,Engine Parts,220,96,Denso,133,2024-12-30,2025-03-20,Delivered
+ITEM0297,Child Assembly,Interior Trim,129,118,Denso,99,2025-01-04,2025-04-01,Delayed
+ITEM0298,Staff Assembly,Chassis Components,198,136,Continental,132,2025-02-05,2025-04-05,Delayed
+ITEM0299,Year Assembly,Electricals,408,98,Continental,155,2025-03-03,2025-03-20,Delayed
+ITEM0300,Recent Assembly,Chassis Components,428,75,Continental,55,2024-10-25,2025-03-26,Delivered
+ITEM0301,Upon Assembly,Engine Parts,338,111,Magneti Marelli,161,2025-02-08,2025-03-27,Ordered
+ITEM0302,Party Assembly,Body Panels,445,65,Magneti Marelli,41,2025-01-13,2025-04-02,Shipped
+ITEM0303,Tree Assembly,Electricals,240,115,Denso,131,2024-12-07,2025-03-14,Ordered
+ITEM0304,Run Assembly,Chassis Components,428,107,Magneti Marelli,26,2025-02-18,2025-03-23,Delayed
+ITEM0305,Mr Assembly,Engine Parts,212,114,Magneti Marelli,80,2024-10-18,2025-03-11,Delayed
+ITEM0306,Buy Assembly,Engine Parts,201,78,Bosch,101,2024-12-12,2025-03-16,Ordered
+ITEM0307,Present Assembly,Electricals,415,68,Denso,29,2024-11-24,2025-03-23,Delivered
+ITEM0308,Wear Assembly,Interior Trim,366,67,Valeo,134,2024-11-01,2025-04-02,Ordered
+ITEM0309,Half Assembly,Engine Parts,19,82,Denso,58,2025-03-01,2025-03-16,Delayed
+ITEM0310,Seven Assembly,Engine Parts,407,86,Denso,97,2024-11-23,2025-03-27,Ordered
+ITEM0311,Painting Assembly,Engine Parts,132,103,Continental,137,2024-11-21,2025-03-09,Ordered
+ITEM0312,Eat Assembly,Engine Parts,438,113,Continental,157,2024-12-22,2025-03-14,Ordered
+ITEM0313,Short Assembly,Body Panels,304,80,Denso,94,2025-03-01,2025-03-10,Delayed
+ITEM0314,Seven Assembly,Engine Parts,324,95,Denso,166,2025-02-23,2025-04-07,Delayed
+ITEM0315,Themselves Assembly,Chassis Components,350,135,Bosch,154,2024-11-02,2025-03-31,Delivered
+ITEM0316,Day Assembly,Engine Parts,498,117,Continental,149,2024-11-08,2025-03-15,Ordered
+ITEM0317,Child Assembly,Interior Trim,457,110,Bosch,182,2024-12-06,2025-04-07,Delayed
+ITEM0318,Night Assembly,Electricals,139,145,Bosch,111,2025-01-11,2025-04-06,Ordered
+ITEM0319,Key Assembly,Electricals,133,143,Bosch,168,2024-11-17,2025-03-21,Delivered
+ITEM0320,Brother Assembly,Chassis Components,32,95,Continental,106,2024-10-10,2025-03-27,Shipped
+ITEM0321,Tend Assembly,Interior Trim,366,111,Denso,54,2024-10-20,2025-03-23,Ordered
+ITEM0322,Less Assembly,Interior Trim,28,87,Denso,31,2025-01-31,2025-04-03,Shipped
+ITEM0323,Painting Assembly,Engine Parts,171,89,Continental,121,2025-01-19,2025-04-07,Delayed
+ITEM0324,Perform Assembly,Electricals,28,146,Denso,93,2024-12-14,2025-03-26,Delivered
+ITEM0325,Stay Assembly,Engine Parts,453,133,Magneti Marelli,89,2025-01-07,2025-04-01,Ordered
+ITEM0326,Enter Assembly,Electricals,233,101,Valeo,118,2024-12-26,2025-03-15,Delivered
+ITEM0327,Toward Assembly,Chassis Components,264,138,Valeo,114,2025-02-26,2025-04-08,Delivered
+ITEM0328,Particular Assembly,Engine Parts,382,104,Bosch,130,2024-10-19,2025-04-03,Shipped
+ITEM0329,Prepare Assembly,Body Panels,160,91,Bosch,40,2025-02-25,2025-03-13,Delivered
+ITEM0330,Participant Assembly,Electricals,166,107,Continental,129,2024-12-02,2025-04-04,Shipped
+ITEM0331,Minute Assembly,Interior Trim,189,107,Bosch,110,2024-11-21,2025-03-11,Delayed
+ITEM0332,Structure Assembly,Electricals,337,57,Bosch,191,2024-10-13,2025-03-20,Delayed
+ITEM0333,Center Assembly,Electricals,272,145,Denso,27,2024-12-30,2025-03-29,Shipped
+ITEM0334,Million Assembly,Body Panels,357,150,Valeo,28,2024-10-14,2025-03-14,Shipped
+ITEM0335,Hear Assembly,Engine Parts,130,149,Magneti Marelli,112,2025-02-05,2025-03-30,Delayed
+ITEM0336,Plant Assembly,Body Panels,26,127,Denso,193,2024-11-29,2025-03-17,Delayed
+ITEM0337,Debate Assembly,Electricals,200,106,Bosch,166,2024-11-05,2025-04-01,Shipped
+ITEM0338,Couple Assembly,Body Panels,197,100,Magneti Marelli,186,2025-02-24,2025-03-28,Delivered
+ITEM0339,Myself Assembly,Chassis Components,68,53,Denso,147,2025-02-26,2025-03-09,Delayed
+ITEM0340,Full Assembly,Body Panels,70,83,Magneti Marelli,200,2024-11-21,2025-04-01,Delayed
+ITEM0341,Wrong Assembly,Chassis Components,323,86,Valeo,71,2025-01-09,2025-03-25,Ordered
+ITEM0342,End Assembly,Chassis Components,446,59,Valeo,64,2024-12-21,2025-03-29,Delayed
+ITEM0343,Than Assembly,Engine Parts,424,137,Magneti Marelli,190,2024-10-27,2025-03-28,Delivered
+ITEM0344,Skin Assembly,Engine Parts,291,119,Magneti Marelli,96,2024-10-08,2025-04-04,Shipped
+ITEM0345,Case Assembly,Chassis Components,416,96,Continental,77,2025-02-06,2025-03-15,Ordered
+ITEM0346,Between Assembly,Chassis Components,415,67,Denso,146,2025-01-25,2025-03-20,Ordered
+ITEM0347,Write Assembly,Electricals,293,123,Magneti Marelli,139,2024-10-11,2025-03-18,Shipped
+ITEM0348,Degree Assembly,Body Panels,462,61,Bosch,99,2024-10-27,2025-03-10,Delayed
+ITEM0349,Likely Assembly,Interior Trim,279,102,Valeo,167,2025-02-13,2025-03-31,Ordered
+ITEM0350,Include Assembly,Chassis Components,172,132,Bosch,135,2025-01-13,2025-03-14,Delayed
+ITEM0351,History Assembly,Body Panels,186,66,Continental,183,2024-12-20,2025-03-10,Shipped
+ITEM0352,Day Assembly,Chassis Components,231,114,Bosch,51,2024-12-02,2025-03-10,Shipped
+ITEM0353,Smile Assembly,Electricals,94,70,Magneti Marelli,77,2025-02-19,2025-03-20,Delivered
+ITEM0354,Establish Assembly,Body Panels,468,86,Bosch,84,2024-11-02,2025-03-23,Shipped
+ITEM0355,Concern Assembly,Body Panels,150,66,Magneti Marelli,177,2024-12-17,2025-03-09,Ordered
+ITEM0356,Benefit Assembly,Body Panels,338,71,Continental,168,2024-11-17,2025-03-23,Shipped
+ITEM0357,Drop Assembly,Chassis Components,347,129,Continental,106,2024-12-13,2025-03-24,Ordered
+ITEM0358,Might Assembly,Engine Parts,51,55,Continental,87,2025-01-24,2025-03-31,Shipped
+ITEM0359,Despite Assembly,Body Panels,223,129,Bosch,147,2024-12-06,2025-03-19,Delivered
+ITEM0360,Thus Assembly,Electricals,257,81,Valeo,96,2024-12-25,2025-03-12,Delayed
+ITEM0361,Wind Assembly,Engine Parts,362,57,Denso,132,2024-12-02,2025-03-13,Delayed
+ITEM0362,Start Assembly,Interior Trim,247,76,Magneti Marelli,175,2025-01-17,2025-03-21,Shipped
+ITEM0363,Worker Assembly,Electricals,451,141,Magneti Marelli,108,2024-12-24,2025-03-16,Delayed
+ITEM0364,Win Assembly,Chassis Components,399,97,Continental,163,2024-12-07,2025-03-23,Ordered
+ITEM0365,State Assembly,Electricals,133,109,Bosch,88,2024-11-16,2025-03-13,Delayed
+ITEM0366,Either Assembly,Chassis Components,82,62,Bosch,94,2024-11-29,2025-04-02,Delayed
+ITEM0367,Get Assembly,Body Panels,224,81,Denso,103,2024-12-07,2025-03-21,Delivered
+ITEM0368,Yard Assembly,Chassis Components,400,70,Valeo,151,2025-02-17,2025-04-01,Delayed
+ITEM0369,Six Assembly,Interior Trim,460,89,Valeo,25,2024-10-14,2025-04-03,Ordered
+ITEM0370,Participant Assembly,Interior Trim,268,108,Denso,75,2024-10-28,2025-04-07,Delivered
+ITEM0371,Large Assembly,Engine Parts,35,86,Valeo,172,2024-11-02,2025-03-16,Delayed
+ITEM0372,Easy Assembly,Electricals,284,51,Bosch,130,2024-11-22,2025-03-19,Shipped
+ITEM0373,Each Assembly,Electricals,382,96,Valeo,113,2024-12-09,2025-03-16,Ordered
+ITEM0374,Measure Assembly,Interior Trim,36,122,Continental,69,2025-01-27,2025-03-12,Delivered
+ITEM0375,Manager Assembly,Body Panels,157,59,Valeo,149,2024-12-29,2025-03-18,Delayed
+ITEM0376,Rule Assembly,Body Panels,153,129,Continental,50,2025-01-21,2025-03-24,Shipped
+ITEM0377,Remain Assembly,Engine Parts,211,97,Magneti Marelli,162,2024-12-13,2025-03-25,Delivered
+ITEM0378,Run Assembly,Chassis Components,111,127,Continental,122,2024-10-20,2025-04-06,Ordered
+ITEM0379,Tax Assembly,Engine Parts,29,67,Magneti Marelli,141,2025-01-14,2025-03-30,Delayed
+ITEM0380,Cut Assembly,Chassis Components,320,115,Denso,103,2024-10-28,2025-03-28,Delivered
+ITEM0381,Rich Assembly,Chassis Components,211,128,Magneti Marelli,171,2025-01-06,2025-03-22,Delivered
+ITEM0382,Hospital Assembly,Body Panels,434,115,Continental,145,2025-01-27,2025-04-05,Delivered
+ITEM0383,Bit Assembly,Interior Trim,427,52,Magneti Marelli,104,2025-02-04,2025-03-28,Ordered
+ITEM0384,Gas Assembly,Interior Trim,308,89,Bosch,172,2025-03-03,2025-03-09,Delayed
+ITEM0385,Institution Assembly,Electricals,345,150,Continental,167,2025-01-31,2025-03-18,Shipped
+ITEM0386,Local Assembly,Engine Parts,308,111,Denso,154,2025-02-15,2025-03-24,Delayed
+ITEM0387,Year Assembly,Chassis Components,430,137,Denso,28,2024-12-04,2025-03-19,Ordered
+ITEM0388,Answer Assembly,Chassis Components,19,106,Magneti Marelli,127,2024-12-05,2025-03-30,Shipped
+ITEM0389,Think Assembly,Interior Trim,363,76,Valeo,148,2024-12-08,2025-03-24,Delayed
+ITEM0390,Wear Assembly,Engine Parts,371,67,Continental,73,2025-02-15,2025-03-11,Delivered
+ITEM0391,Tree Assembly,Interior Trim,279,98,Magneti Marelli,64,2024-11-03,2025-03-23,Delayed
+ITEM0392,There Assembly,Body Panels,185,119,Magneti Marelli,193,2025-02-15,2025-03-22,Delivered
+ITEM0393,Animal Assembly,Body Panels,257,74,Denso,91,2024-12-17,2025-04-02,Delivered
+ITEM0394,Prevent Assembly,Chassis Components,492,88,Magneti Marelli,200,2024-12-14,2025-03-25,Shipped
+ITEM0395,However Assembly,Interior Trim,172,111,Magneti Marelli,163,2024-12-01,2025-03-17,Delivered
+ITEM0396,Thank Assembly,Electricals,72,123,Continental,117,2024-11-29,2025-04-06,Delayed
+ITEM0397,Fact Assembly,Electricals,498,148,Denso,94,2025-01-16,2025-03-16,Ordered
+ITEM0398,Might Assembly,Electricals,499,141,Bosch,108,2025-01-13,2025-03-13,Delayed
+ITEM0399,First Assembly,Electricals,392,111,Denso,71,2024-11-22,2025-03-17,Delivered
+ITEM0400,Soon Assembly,Body Panels,366,84,Denso,47,2025-03-07,2025-03-19,Shipped
+ITEM0401,Bed Assembly,Chassis Components,35,135,Continental,77,2025-01-04,2025-03-29,Shipped
+ITEM0402,Letter Assembly,Engine Parts,61,102,Magneti Marelli,140,2024-11-03,2025-03-12,Ordered
+ITEM0403,Single Assembly,Chassis Components,12,120,Denso,124,2024-11-07,2025-03-20,Delayed
+ITEM0404,Home Assembly,Interior Trim,343,75,Magneti Marelli,102,2025-01-14,2025-03-19,Delivered
+ITEM0405,Where Assembly,Engine Parts,474,148,Bosch,186,2024-12-02,2025-03-25,Shipped
+ITEM0406,Store Assembly,Body Panels,388,142,Bosch,64,2024-10-26,2025-04-08,Delayed
+ITEM0407,Leave Assembly,Chassis Components,488,54,Valeo,146,2024-10-29,2025-03-25,Shipped
+ITEM0408,Do Assembly,Electricals,458,54,Bosch,96,2024-10-14,2025-03-31,Ordered
+ITEM0409,Indicate Assembly,Electricals,155,108,Continental,154,2025-01-17,2025-04-02,Delayed
+ITEM0410,Difference Assembly,Chassis Components,445,114,Valeo,89,2024-11-17,2025-03-11,Shipped
+ITEM0411,Laugh Assembly,Engine Parts,179,70,Valeo,185,2024-11-28,2025-03-24,Delivered
+ITEM0412,Standard Assembly,Chassis Components,17,144,Magneti Marelli,95,2024-11-02,2025-03-31,Shipped
+ITEM0413,Also Assembly,Chassis Components,322,131,Valeo,129,2025-02-09,2025-03-09,Delivered
+ITEM0414,Skill Assembly,Engine Parts,215,135,Bosch,67,2024-12-09,2025-04-06,Shipped
+ITEM0415,Author Assembly,Interior Trim,175,81,Bosch,86,2025-02-24,2025-03-10,Delayed
+ITEM0416,Impact Assembly,Chassis Components,238,146,Magneti Marelli,104,2025-01-08,2025-04-03,Delivered
+ITEM0417,Stay Assembly,Body Panels,380,123,Bosch,86,2024-12-03,2025-03-30,Delivered
+ITEM0418,Yeah Assembly,Chassis Components,41,135,Bosch,139,2025-02-15,2025-03-09,Delivered
+ITEM0419,Lose Assembly,Chassis Components,217,137,Continental,200,2024-10-21,2025-04-08,Delivered
+ITEM0420,Keep Assembly,Engine Parts,337,87,Magneti Marelli,177,2025-02-21,2025-04-03,Shipped
+ITEM0421,Food Assembly,Chassis Components,500,67,Valeo,59,2024-12-04,2025-03-29,Delayed
+ITEM0422,Common Assembly,Body Panels,201,103,Continental,140,2024-11-02,2025-03-19,Shipped
+ITEM0423,All Assembly,Chassis Components,358,146,Continental,40,2025-01-22,2025-03-27,Delayed
+ITEM0424,Table Assembly,Body Panels,370,96,Bosch,164,2024-11-02,2025-03-15,Ordered
+ITEM0425,Risk Assembly,Engine Parts,434,120,Continental,71,2024-12-19,2025-03-17,Shipped
+ITEM0426,Rock Assembly,Chassis Components,177,116,Valeo,49,2024-12-07,2025-04-08,Shipped
+ITEM0427,His Assembly,Body Panels,260,61,Continental,134,2024-10-19,2025-03-27,Ordered
+ITEM0428,Still Assembly,Interior Trim,77,115,Valeo,136,2024-11-18,2025-03-20,Ordered
+ITEM0429,Minute Assembly,Body Panels,246,136,Magneti Marelli,25,2025-03-01,2025-03-11,Delayed
+ITEM0430,Threat Assembly,Electricals,428,50,Denso,168,2024-11-11,2025-03-31,Ordered
+ITEM0431,Win Assembly,Engine Parts,226,94,Bosch,158,2025-01-16,2025-03-13,Ordered
+ITEM0432,Goal Assembly,Engine Parts,488,110,Bosch,93,2025-01-26,2025-03-22,Delayed
+ITEM0433,List Assembly,Chassis Components,403,67,Valeo,115,2025-02-22,2025-04-08,Delayed
+ITEM0434,Doctor Assembly,Interior Trim,455,98,Valeo,40,2025-02-18,2025-03-10,Shipped
+ITEM0435,Cold Assembly,Electricals,70,72,Continental,120,2024-12-07,2025-04-06,Shipped
+ITEM0436,Accept Assembly,Chassis Components,437,50,Bosch,96,2025-02-09,2025-03-12,Delayed
+ITEM0437,Never Assembly,Body Panels,227,118,Valeo,78,2025-01-24,2025-04-04,Shipped
+ITEM0438,Important Assembly,Interior Trim,187,69,Magneti Marelli,68,2024-10-12,2025-03-21,Ordered
+ITEM0439,Value Assembly,Engine Parts,424,134,Valeo,177,2025-02-07,2025-03-25,Ordered
+ITEM0440,Add Assembly,Chassis Components,115,58,Bosch,172,2024-11-12,2025-03-14,Ordered
+ITEM0441,Marriage Assembly,Interior Trim,316,136,Bosch,82,2025-02-25,2025-03-21,Ordered
+ITEM0442,Gas Assembly,Interior Trim,234,79,Continental,75,2024-11-28,2025-03-20,Ordered
+ITEM0443,Put Assembly,Chassis Components,267,87,Denso,167,2025-01-06,2025-04-05,Delivered
+ITEM0444,A Assembly,Body Panels,316,148,Magneti Marelli,80,2024-10-29,2025-03-27,Delivered
+ITEM0445,Who Assembly,Chassis Components,348,116,Denso,125,2025-02-21,2025-03-16,Delivered
+ITEM0446,Fire Assembly,Electricals,41,121,Continental,64,2025-01-26,2025-03-25,Delayed
+ITEM0447,Down Assembly,Body Panels,263,56,Magneti Marelli,184,2025-02-07,2025-04-03,Delayed
+ITEM0448,Truth Assembly,Body Panels,173,139,Valeo,124,2025-01-10,2025-03-09,Shipped
+ITEM0449,Election Assembly,Electricals,202,73,Continental,141,2024-11-14,2025-03-21,Shipped
+ITEM0450,Despite Assembly,Chassis Components,163,140,Denso,138,2025-01-17,2025-04-07,Ordered
+ITEM0451,Magazine Assembly,Body Panels,221,103,Continental,155,2024-12-24,2025-03-26,Shipped
+ITEM0452,Activity Assembly,Interior Trim,134,82,Denso,104,2025-01-01,2025-03-18,Ordered
+ITEM0453,Example Assembly,Interior Trim,443,97,Bosch,157,2025-01-03,2025-03-20,Shipped
+ITEM0454,Of Assembly,Engine Parts,147,98,Continental,174,2024-10-20,2025-03-28,Ordered
+ITEM0455,Arm Assembly,Engine Parts,106,147,Continental,191,2024-10-18,2025-03-23,Shipped
+ITEM0456,Bad Assembly,Interior Trim,116,92,Magneti Marelli,23,2024-10-17,2025-03-13,Shipped
+ITEM0457,Lawyer Assembly,Chassis Components,389,65,Valeo,82,2025-01-15,2025-03-17,Shipped
+ITEM0458,Voice Assembly,Interior Trim,478,80,Continental,102,2025-03-05,2025-03-26,Delivered
+ITEM0459,Cold Assembly,Interior Trim,248,118,Magneti Marelli,98,2024-12-03,2025-03-23,Delivered
+ITEM0460,Military Assembly,Electricals,272,113,Valeo,45,2025-01-07,2025-03-20,Delayed
+ITEM0461,Once Assembly,Electricals,478,76,Magneti Marelli,100,2025-02-15,2025-03-16,Delayed
+ITEM0462,Ten Assembly,Engine Parts,298,78,Denso,24,2024-11-30,2025-03-25,Delivered
+ITEM0463,Low Assembly,Body Panels,488,124,Continental,126,2024-11-09,2025-03-12,Delivered
+ITEM0464,Thing Assembly,Chassis Components,110,92,Denso,117,2025-01-06,2025-03-31,Shipped
+ITEM0465,Tell Assembly,Interior Trim,291,133,Magneti Marelli,85,2024-10-29,2025-03-09,Delayed
+ITEM0466,Prepare Assembly,Interior Trim,245,71,Magneti Marelli,63,2024-12-07,2025-03-09,Shipped
+ITEM0467,Total Assembly,Body Panels,260,73,Continental,184,2024-12-20,2025-03-21,Ordered
+ITEM0468,Garden Assembly,Body Panels,27,59,Bosch,21,2024-10-23,2025-03-25,Delayed
+ITEM0469,Would Assembly,Chassis Components,441,130,Denso,37,2025-01-27,2025-04-05,Shipped
+ITEM0470,Spring Assembly,Engine Parts,121,114,Valeo,115,2025-01-04,2025-04-03,Ordered
+ITEM0471,Interest Assembly,Body Panels,336,135,Continental,143,2024-12-15,2025-03-10,Delayed
+ITEM0472,Realize Assembly,Engine Parts,13,118,Continental,125,2024-12-07,2025-03-23,Ordered
+ITEM0473,Approach Assembly,Engine Parts,281,142,Magneti Marelli,157,2024-11-03,2025-03-28,Delivered
+ITEM0474,College Assembly,Engine Parts,267,139,Valeo,65,2025-02-27,2025-03-14,Ordered
+ITEM0475,Pattern Assembly,Engine Parts,278,69,Denso,69,2025-02-24,2025-03-27,Delivered
+ITEM0476,Former Assembly,Electricals,146,100,Bosch,115,2024-11-07,2025-03-13,Delayed
+ITEM0477,Alone Assembly,Interior Trim,299,81,Denso,96,2024-11-16,2025-03-31,Ordered
+ITEM0478,Common Assembly,Engine Parts,57,101,Valeo,116,2024-12-09,2025-04-03,Delayed
+ITEM0479,Skin Assembly,Engine Parts,336,51,Denso,41,2025-02-04,2025-03-17,Delayed
+ITEM0480,Religious Assembly,Interior Trim,340,150,Magneti Marelli,164,2024-10-21,2025-03-31,Ordered
+ITEM0481,Window Assembly,Body Panels,480,55,Denso,74,2024-11-13,2025-04-01,Delayed
+ITEM0482,Add Assembly,Electricals,33,59,Magneti Marelli,159,2025-01-30,2025-04-01,Ordered
+ITEM0483,Look Assembly,Chassis Components,485,90,Bosch,73,2024-10-15,2025-03-27,Shipped
+ITEM0484,Describe Assembly,Interior Trim,485,59,Magneti Marelli,61,2024-12-05,2025-03-23,Shipped
+ITEM0485,Author Assembly,Body Panels,437,99,Continental,104,2025-02-04,2025-04-01,Delayed
+ITEM0486,Choice Assembly,Chassis Components,414,138,Bosch,148,2024-11-21,2025-03-17,Delivered
+ITEM0487,Best Assembly,Engine Parts,60,105,Denso,39,2024-12-24,2025-03-18,Delivered
+ITEM0488,Rich Assembly,Body Panels,403,128,Continental,121,2024-11-26,2025-03-30,Delivered
+ITEM0489,Article Assembly,Engine Parts,334,84,Valeo,145,2024-12-13,2025-03-18,Shipped
+ITEM0490,Of Assembly,Electricals,293,98,Valeo,67,2025-01-22,2025-03-18,Delayed
+ITEM0491,Cultural Assembly,Engine Parts,405,129,Magneti Marelli,83,2024-10-20,2025-03-28,Ordered
+ITEM0492,Room Assembly,Engine Parts,147,69,Valeo,182,2025-03-06,2025-03-30,Shipped
+ITEM0493,Week Assembly,Interior Trim,172,96,Bosch,43,2024-12-30,2025-03-14,Ordered
+ITEM0494,Whose Assembly,Electricals,237,96,Magneti Marelli,46,2024-10-13,2025-04-01,Shipped
+ITEM0495,Drug Assembly,Engine Parts,105,105,Valeo,162,2025-01-11,2025-03-27,Delayed
+ITEM0496,Behavior Assembly,Engine Parts,23,61,Magneti Marelli,161,2024-11-30,2025-03-23,Ordered
+ITEM0497,Actually Assembly,Body Panels,316,150,Magneti Marelli,118,2024-12-05,2025-04-05,Ordered
+ITEM0498,Area Assembly,Electricals,221,99,Bosch,163,2024-10-23,2025-03-14,Shipped
+ITEM0499,True Assembly,Body Panels,276,71,Valeo,63,2025-02-23,2025-03-25,Shipped
+ITEM0500,Generation Assembly,Electricals,164,84,Valeo,57,2025-02-01,2025-04-02,Ordered
