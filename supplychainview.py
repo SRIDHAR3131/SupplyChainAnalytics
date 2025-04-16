@@ -3,11 +3,11 @@ import pandas as pd
 #import matplotlib.pyplot as plt
 #import matplotlib.dates as mdates
 import plotly.express as px
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 from datetime import datetime
-import plotly.io as pio
+#import plotly.io as pio
 import time
-import plotly.colors as pc
+#import plotly.colors as pc
 
 from streamlit_lottie import st_lottie
 import requests
